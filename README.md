@@ -1,1 +1,0 @@
-# Some coding exercises

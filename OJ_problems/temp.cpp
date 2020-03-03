@@ -1,11 +1,9 @@
-#include<iostream>
-#include<string>
-using namespace std;
+#include<stdio.h>
+
+
 
 int main(){
-    string s;
-    s = "world";
-    s = s + " hello";
-    cout << s << endl;
+    int i = 2<1;
+    printf("%d",i);
     return 0;
 }
